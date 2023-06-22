@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Kudzai Munyama @greycode-apps
-- 👀 I’m interested in anything Javascript & Software Development
-- 📫 How to reach me 👇
--  kudzaimunyama69@gmail.com | munyamakudzai095@gmail.com | +263 771 392 149
+- 👋 Hi, we are a cohesive team of professional software developers.
+- 👀 We are interested in any Software Development projects.
+- 📫 How to reach the dev team 👇
+-   | Kudzai Munyama | +263 771 392 149 
+-   | Bernard Towindo | +263 786 291 896 
+-   | Tariro Mahachi  | +263 774 299 990 
+  
 
 <!---
 greycode-apps/greycode-apps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
