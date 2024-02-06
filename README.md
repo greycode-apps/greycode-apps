@@ -2,8 +2,7 @@
 - 👀 We are interested in any Software Development projects.
 - 📫 How to reach the dev team 👇
 -   | Kudzai Munyama | +263 771 392 149 
--   | Bernard Towindo | +263 786 291 896 
--   | Tariro Mahachi  | +263 774 299 990 
+-  
 
   
 
